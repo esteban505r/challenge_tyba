@@ -1,0 +1,34 @@
+{
+  "appName": "Tyba Challenge",
+  "@appName": {
+    "description": "App name"
+  },
+  "country": "Country",
+  "@country": {
+    "description": "country"
+  },
+  "webPages": "Web pages",
+  "@webPages": {
+    "description": "Web pages"
+  },
+  "domains": "Domains",
+  "@domains": {
+    "description": "domains"
+  },
+  "changeImageQuestion": "Do you want to use camera o gallery to change the image?",
+  "@changeImageQuestion": {
+    "description": "question"
+  },
+  "camera": "Camera",
+  "@camera": {
+    "description": "camera"
+  },
+  "gallery": "Gallery",
+  "@gallery": {
+    "description": "gallery"
+  },
+  "students": "Students",
+  "@students": {
+    "description": "students"
+  }
+}

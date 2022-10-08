@@ -1,0 +1,10 @@
+{
+  "appName": "Desafio Tyba",
+  "country": "Pais",
+  "webPages": "Paginas web",
+  "domains": "Dominios",
+  "changeImageQuestion": "Quieres usar la camara o la galeria para cambiar la imagen?",
+  "gallery": "Galeria",
+  "camera": "Camara",
+  "students": "Estudiantes"
+}
